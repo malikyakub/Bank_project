@@ -1,0 +1,291 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\hp\\Desktop\\Semester four\\Visual C#\\projects\\sample bank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{128C8892-ADEB-4440-B789-8A3EEAE99357}|sample bank\\sample bank.csproj|d:\\users\\hp\\desktop\\semester four\\visual c#\\projects\\sample bank\\sample bank\\mainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{128C8892-ADEB-4440-B789-8A3EEAE99357}|sample bank\\sample bank.csproj|solutionrelative:sample bank\\mainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128C8892-ADEB-4440-B789-8A3EEAE99357}|sample bank\\sample bank.csproj|d:\\users\\hp\\desktop\\semester four\\visual c#\\projects\\sample bank\\sample bank\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128C8892-ADEB-4440-B789-8A3EEAE99357}|sample bank\\sample bank.csproj|solutionrelative:sample bank\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128C8892-ADEB-4440-B789-8A3EEAE99357}|sample bank\\sample bank.csproj|d:\\users\\hp\\desktop\\semester four\\visual c#\\projects\\sample bank\\sample bank\\mainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128C8892-ADEB-4440-B789-8A3EEAE99357}|sample bank\\sample bank.csproj|solutionrelative:sample bank\\mainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128C8892-ADEB-4440-B789-8A3EEAE99357}|sample bank\\sample bank.csproj|d:\\users\\hp\\desktop\\semester four\\visual c#\\projects\\sample bank\\sample bank\\connections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128C8892-ADEB-4440-B789-8A3EEAE99357}|sample bank\\sample bank.csproj|solutionrelative:sample bank\\connections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128C8892-ADEB-4440-B789-8A3EEAE99357}|sample bank\\sample bank.csproj|D:\\Users\\hp\\Desktop\\Semester four\\Visual C#\\projects\\sample bank\\sample bank\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{128C8892-ADEB-4440-B789-8A3EEAE99357}|sample bank\\sample bank.csproj|solutionrelative:sample bank\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128C8892-ADEB-4440-B789-8A3EEAE99357}|sample bank\\sample bank.csproj|d:\\users\\hp\\desktop\\semester four\\visual c#\\projects\\sample bank\\sample bank\\customeraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128C8892-ADEB-4440-B789-8A3EEAE99357}|sample bank\\sample bank.csproj|solutionrelative:sample bank\\customeraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128C8892-ADEB-4440-B789-8A3EEAE99357}|sample bank\\sample bank.csproj|D:\\Users\\hp\\Desktop\\Semester four\\Visual C#\\projects\\sample bank\\sample bank\\customeraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{128C8892-ADEB-4440-B789-8A3EEAE99357}|sample bank\\sample bank.csproj|solutionrelative:sample bank\\customeraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128C8892-ADEB-4440-B789-8A3EEAE99357}|sample bank\\sample bank.csproj|d:\\users\\hp\\desktop\\semester four\\visual c#\\projects\\sample bank\\sample bank\\transfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128C8892-ADEB-4440-B789-8A3EEAE99357}|sample bank\\sample bank.csproj|solutionrelative:sample bank\\transfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128C8892-ADEB-4440-B789-8A3EEAE99357}|sample bank\\sample bank.csproj|D:\\Users\\hp\\Desktop\\Semester four\\Visual C#\\projects\\sample bank\\sample bank\\transfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{128C8892-ADEB-4440-B789-8A3EEAE99357}|sample bank\\sample bank.csproj|solutionrelative:sample bank\\transfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128C8892-ADEB-4440-B789-8A3EEAE99357}|sample bank\\sample bank.csproj|d:\\users\\hp\\desktop\\semester four\\visual c#\\projects\\sample bank\\sample bank\\withdrawaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128C8892-ADEB-4440-B789-8A3EEAE99357}|sample bank\\sample bank.csproj|solutionrelative:sample bank\\withdrawaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128C8892-ADEB-4440-B789-8A3EEAE99357}|sample bank\\sample bank.csproj|D:\\Users\\hp\\Desktop\\Semester four\\Visual C#\\projects\\sample bank\\sample bank\\withdrawaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{128C8892-ADEB-4440-B789-8A3EEAE99357}|sample bank\\sample bank.csproj|solutionrelative:sample bank\\withdrawaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128C8892-ADEB-4440-B789-8A3EEAE99357}|sample bank\\sample bank.csproj|d:\\users\\hp\\desktop\\semester four\\visual c#\\projects\\sample bank\\sample bank\\depositaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128C8892-ADEB-4440-B789-8A3EEAE99357}|sample bank\\sample bank.csproj|solutionrelative:sample bank\\depositaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128C8892-ADEB-4440-B789-8A3EEAE99357}|sample bank\\sample bank.csproj|D:\\Users\\hp\\Desktop\\Semester four\\Visual C#\\projects\\sample bank\\sample bank\\depositaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{128C8892-ADEB-4440-B789-8A3EEAE99357}|sample bank\\sample bank.csproj|solutionrelative:sample bank\\depositaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128C8892-ADEB-4440-B789-8A3EEAE99357}|sample bank\\sample bank.csproj|d:\\users\\hp\\desktop\\semester four\\visual c#\\projects\\sample bank\\sample bank\\lookaccount_deposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128C8892-ADEB-4440-B789-8A3EEAE99357}|sample bank\\sample bank.csproj|solutionrelative:sample bank\\lookaccount_deposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128C8892-ADEB-4440-B789-8A3EEAE99357}|sample bank\\sample bank.csproj|D:\\Users\\hp\\Desktop\\Semester four\\Visual C#\\projects\\sample bank\\sample bank\\lookaccount_deposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{128C8892-ADEB-4440-B789-8A3EEAE99357}|sample bank\\sample bank.csproj|solutionrelative:sample bank\\lookaccount_deposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128C8892-ADEB-4440-B789-8A3EEAE99357}|sample bank\\sample bank.csproj|d:\\users\\hp\\desktop\\semester four\\visual c#\\projects\\sample bank\\sample bank\\lookaccount_withdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128C8892-ADEB-4440-B789-8A3EEAE99357}|sample bank\\sample bank.csproj|solutionrelative:sample bank\\lookaccount_withdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128C8892-ADEB-4440-B789-8A3EEAE99357}|sample bank\\sample bank.csproj|D:\\Users\\hp\\Desktop\\Semester four\\Visual C#\\projects\\sample bank\\sample bank\\lookaccount_withdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{128C8892-ADEB-4440-B789-8A3EEAE99357}|sample bank\\sample bank.csproj|solutionrelative:sample bank\\lookaccount_withdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\Users\\hp\\Desktop\\Semester four\\Visual C#\\projects\\sample bank\\sample bank\\Login.cs",
+              "RelativeDocumentMoniker": "sample bank\\Login.cs",
+              "ToolTip": "D:\\Users\\hp\\Desktop\\Semester four\\Visual C#\\projects\\sample bank\\sample bank\\Login.cs",
+              "RelativeToolTip": "sample bank\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T09:54:48.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mainScreen.cs [Design]",
+              "DocumentMoniker": "D:\\Users\\hp\\Desktop\\Semester four\\Visual C#\\projects\\sample bank\\sample bank\\mainScreen.cs",
+              "RelativeDocumentMoniker": "sample bank\\mainScreen.cs",
+              "ToolTip": "D:\\Users\\hp\\Desktop\\Semester four\\Visual C#\\projects\\sample bank\\sample bank\\mainScreen.cs [Design]",
+              "RelativeToolTip": "sample bank\\mainScreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T11:13:46.968Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "mainScreen.cs",
+              "DocumentMoniker": "D:\\Users\\hp\\Desktop\\Semester four\\Visual C#\\projects\\sample bank\\sample bank\\mainScreen.cs",
+              "RelativeDocumentMoniker": "sample bank\\mainScreen.cs",
+              "ToolTip": "D:\\Users\\hp\\Desktop\\Semester four\\Visual C#\\projects\\sample bank\\sample bank\\mainScreen.cs",
+              "RelativeToolTip": "sample bank\\mainScreen.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAYwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T11:36:29.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Connections.cs",
+              "DocumentMoniker": "D:\\Users\\hp\\Desktop\\Semester four\\Visual C#\\projects\\sample bank\\sample bank\\Connections.cs",
+              "RelativeDocumentMoniker": "sample bank\\Connections.cs",
+              "ToolTip": "D:\\Users\\hp\\Desktop\\Semester four\\Visual C#\\projects\\sample bank\\sample bank\\Connections.cs",
+              "RelativeToolTip": "sample bank\\Connections.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T11:51:52.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\Users\\hp\\Desktop\\Semester four\\Visual C#\\projects\\sample bank\\sample bank\\Login.cs",
+              "RelativeDocumentMoniker": "sample bank\\Login.cs",
+              "ToolTip": "D:\\Users\\hp\\Desktop\\Semester four\\Visual C#\\projects\\sample bank\\sample bank\\Login.cs [Design]",
+              "RelativeToolTip": "sample bank\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T10:15:13.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "withdrawAccount.cs [Design]",
+              "DocumentMoniker": "D:\\Users\\hp\\Desktop\\Semester four\\Visual C#\\projects\\sample bank\\sample bank\\withdrawAccount.cs",
+              "RelativeDocumentMoniker": "sample bank\\withdrawAccount.cs",
+              "ToolTip": "D:\\Users\\hp\\Desktop\\Semester four\\Visual C#\\projects\\sample bank\\sample bank\\withdrawAccount.cs [Design]",
+              "RelativeToolTip": "sample bank\\withdrawAccount.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T02:39:41.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "depositAccount.cs",
+              "DocumentMoniker": "D:\\Users\\hp\\Desktop\\Semester four\\Visual C#\\projects\\sample bank\\sample bank\\depositAccount.cs",
+              "RelativeDocumentMoniker": "sample bank\\depositAccount.cs",
+              "ToolTip": "D:\\Users\\hp\\Desktop\\Semester four\\Visual C#\\projects\\sample bank\\sample bank\\depositAccount.cs",
+              "RelativeToolTip": "sample bank\\depositAccount.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAAJUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T02:41:25.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "customerAccount.cs",
+              "DocumentMoniker": "D:\\Users\\hp\\Desktop\\Semester four\\Visual C#\\projects\\sample bank\\sample bank\\customerAccount.cs",
+              "RelativeDocumentMoniker": "sample bank\\customerAccount.cs",
+              "ToolTip": "D:\\Users\\hp\\Desktop\\Semester four\\Visual C#\\projects\\sample bank\\sample bank\\customerAccount.cs",
+              "RelativeToolTip": "sample bank\\customerAccount.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAiwCcAAACGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T11:46:56.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Transfer.cs",
+              "DocumentMoniker": "D:\\Users\\hp\\Desktop\\Semester four\\Visual C#\\projects\\sample bank\\sample bank\\Transfer.cs",
+              "RelativeDocumentMoniker": "sample bank\\Transfer.cs",
+              "ToolTip": "D:\\Users\\hp\\Desktop\\Semester four\\Visual C#\\projects\\sample bank\\sample bank\\Transfer.cs",
+              "RelativeToolTip": "sample bank\\Transfer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T08:24:54.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "depositAccount.cs [Design]",
+              "DocumentMoniker": "D:\\Users\\hp\\Desktop\\Semester four\\Visual C#\\projects\\sample bank\\sample bank\\depositAccount.cs",
+              "RelativeDocumentMoniker": "sample bank\\depositAccount.cs",
+              "ToolTip": "D:\\Users\\hp\\Desktop\\Semester four\\Visual C#\\projects\\sample bank\\sample bank\\depositAccount.cs [Design]",
+              "RelativeToolTip": "sample bank\\depositAccount.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T13:31:32.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "customerAccount.cs [Design]",
+              "DocumentMoniker": "D:\\Users\\hp\\Desktop\\Semester four\\Visual C#\\projects\\sample bank\\sample bank\\customerAccount.cs",
+              "RelativeDocumentMoniker": "sample bank\\customerAccount.cs",
+              "ToolTip": "D:\\Users\\hp\\Desktop\\Semester four\\Visual C#\\projects\\sample bank\\sample bank\\customerAccount.cs [Design]",
+              "RelativeToolTip": "sample bank\\customerAccount.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T11:40:47.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "withdrawAccount.cs",
+              "DocumentMoniker": "D:\\Users\\hp\\Desktop\\Semester four\\Visual C#\\projects\\sample bank\\sample bank\\withdrawAccount.cs",
+              "RelativeDocumentMoniker": "sample bank\\withdrawAccount.cs",
+              "ToolTip": "D:\\Users\\hp\\Desktop\\Semester four\\Visual C#\\projects\\sample bank\\sample bank\\withdrawAccount.cs",
+              "RelativeToolTip": "sample bank\\withdrawAccount.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T02:41:05.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Transfer.cs [Design]",
+              "DocumentMoniker": "D:\\Users\\hp\\Desktop\\Semester four\\Visual C#\\projects\\sample bank\\sample bank\\Transfer.cs",
+              "RelativeDocumentMoniker": "sample bank\\Transfer.cs",
+              "ToolTip": "D:\\Users\\hp\\Desktop\\Semester four\\Visual C#\\projects\\sample bank\\sample bank\\Transfer.cs [Design]",
+              "RelativeToolTip": "sample bank\\Transfer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T08:20:41.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "lookAccount_deposit.cs",
+              "DocumentMoniker": "D:\\Users\\hp\\Desktop\\Semester four\\Visual C#\\projects\\sample bank\\sample bank\\lookAccount_deposit.cs",
+              "RelativeDocumentMoniker": "sample bank\\lookAccount_deposit.cs",
+              "ToolTip": "D:\\Users\\hp\\Desktop\\Semester four\\Visual C#\\projects\\sample bank\\sample bank\\lookAccount_deposit.cs",
+              "RelativeToolTip": "sample bank\\lookAccount_deposit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T16:36:35.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "lookAccount_deposit.cs [Design]",
+              "DocumentMoniker": "D:\\Users\\hp\\Desktop\\Semester four\\Visual C#\\projects\\sample bank\\sample bank\\lookAccount_deposit.cs",
+              "RelativeDocumentMoniker": "sample bank\\lookAccount_deposit.cs",
+              "ToolTip": "D:\\Users\\hp\\Desktop\\Semester four\\Visual C#\\projects\\sample bank\\sample bank\\lookAccount_deposit.cs [Design]",
+              "RelativeToolTip": "sample bank\\lookAccount_deposit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T16:30:35.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "lookAccount_withdraw.cs",
+              "DocumentMoniker": "D:\\Users\\hp\\Desktop\\Semester four\\Visual C#\\projects\\sample bank\\sample bank\\lookAccount_withdraw.cs",
+              "RelativeDocumentMoniker": "sample bank\\lookAccount_withdraw.cs",
+              "ToolTip": "D:\\Users\\hp\\Desktop\\Semester four\\Visual C#\\projects\\sample bank\\sample bank\\lookAccount_withdraw.cs",
+              "RelativeToolTip": "sample bank\\lookAccount_withdraw.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAADgvzYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T02:45:57.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "lookAccount_withdraw.cs [Design]",
+              "DocumentMoniker": "D:\\Users\\hp\\Desktop\\Semester four\\Visual C#\\projects\\sample bank\\sample bank\\lookAccount_withdraw.cs",
+              "RelativeDocumentMoniker": "sample bank\\lookAccount_withdraw.cs",
+              "ToolTip": "D:\\Users\\hp\\Desktop\\Semester four\\Visual C#\\projects\\sample bank\\sample bank\\lookAccount_withdraw.cs [Design]",
+              "RelativeToolTip": "sample bank\\lookAccount_withdraw.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T02:45:20.697Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

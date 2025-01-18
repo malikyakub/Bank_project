@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="customerAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="depositAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="lookAccount_deposit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="lookAccount_withdraw.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="mainScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Transfer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="withdrawAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup />
+</Project>

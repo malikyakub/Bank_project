@@ -1,0 +1,32 @@
+D:\Users\hp\Desktop\Semester four\Visual C#\projects\sample bank\sample bank\bin\Debug\net8.0-windows\sample bank.exe
+D:\Users\hp\Desktop\Semester four\Visual C#\projects\sample bank\sample bank\bin\Debug\net8.0-windows\sample bank.deps.json
+D:\Users\hp\Desktop\Semester four\Visual C#\projects\sample bank\sample bank\bin\Debug\net8.0-windows\sample bank.runtimeconfig.json
+D:\Users\hp\Desktop\Semester four\Visual C#\projects\sample bank\sample bank\bin\Debug\net8.0-windows\sample bank.dll
+D:\Users\hp\Desktop\Semester four\Visual C#\projects\sample bank\sample bank\bin\Debug\net8.0-windows\sample bank.pdb
+D:\Users\hp\Desktop\Semester four\Visual C#\projects\sample bank\sample bank\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Users\hp\Desktop\Semester four\Visual C#\projects\sample bank\sample bank\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Users\hp\Desktop\Semester four\Visual C#\projects\sample bank\sample bank\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Users\hp\Desktop\Semester four\Visual C#\projects\sample bank\sample bank\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Users\hp\Desktop\Semester four\Visual C#\projects\sample bank\sample bank\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\Users\hp\Desktop\Semester four\Visual C#\projects\sample bank\sample bank\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\Users\hp\Desktop\Semester four\Visual C#\projects\sample bank\sample bank\obj\Debug\net8.0-windows\sample bank.csproj.AssemblyReference.cache
+D:\Users\hp\Desktop\Semester four\Visual C#\projects\sample bank\sample bank\obj\Debug\net8.0-windows\sample_bank.customeraccount.resources
+D:\Users\hp\Desktop\Semester four\Visual C#\projects\sample bank\sample bank\obj\Debug\net8.0-windows\sample_bank.mainscreen.resources
+D:\Users\hp\Desktop\Semester four\Visual C#\projects\sample bank\sample bank\obj\Debug\net8.0-windows\sample_bank.Properties.Resources.resources
+D:\Users\hp\Desktop\Semester four\Visual C#\projects\sample bank\sample bank\obj\Debug\net8.0-windows\sample bank.csproj.GenerateResource.cache
+D:\Users\hp\Desktop\Semester four\Visual C#\projects\sample bank\sample bank\obj\Debug\net8.0-windows\sample bank.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\hp\Desktop\Semester four\Visual C#\projects\sample bank\sample bank\obj\Debug\net8.0-windows\sample bank.AssemblyInfoInputs.cache
+D:\Users\hp\Desktop\Semester four\Visual C#\projects\sample bank\sample bank\obj\Debug\net8.0-windows\sample bank.AssemblyInfo.cs
+D:\Users\hp\Desktop\Semester four\Visual C#\projects\sample bank\sample bank\obj\Debug\net8.0-windows\sample bank.csproj.CoreCompileInputs.cache
+D:\Users\hp\Desktop\Semester four\Visual C#\projects\sample bank\sample bank\obj\Debug\net8.0-windows\sample b.3CEF7CED.Up2Date
+D:\Users\hp\Desktop\Semester four\Visual C#\projects\sample bank\sample bank\obj\Debug\net8.0-windows\sample bank.dll
+D:\Users\hp\Desktop\Semester four\Visual C#\projects\sample bank\sample bank\obj\Debug\net8.0-windows\refint\sample bank.dll
+D:\Users\hp\Desktop\Semester four\Visual C#\projects\sample bank\sample bank\obj\Debug\net8.0-windows\sample bank.pdb
+D:\Users\hp\Desktop\Semester four\Visual C#\projects\sample bank\sample bank\obj\Debug\net8.0-windows\sample bank.genruntimeconfig.cache
+D:\Users\hp\Desktop\Semester four\Visual C#\projects\sample bank\sample bank\obj\Debug\net8.0-windows\ref\sample bank.dll
+D:\Users\hp\Desktop\Semester four\Visual C#\projects\sample bank\sample bank\obj\Debug\net8.0-windows\sample_bank.depositaccount.resources
+D:\Users\hp\Desktop\Semester four\Visual C#\projects\sample bank\sample bank\obj\Debug\net8.0-windows\sample_bank.lookAccount_deposit.resources
+D:\Users\hp\Desktop\Semester four\Visual C#\projects\sample bank\sample bank\obj\Debug\net8.0-windows\sample_bank.lookAccount_withdraw.resources
+D:\Users\hp\Desktop\Semester four\Visual C#\projects\sample bank\sample bank\obj\Debug\net8.0-windows\sample_bank.withdrawAccount.resources
+D:\Users\hp\Desktop\Semester four\Visual C#\projects\sample bank\sample bank\obj\Debug\net8.0-windows\sample_bank.Transfer.resources
+D:\Users\hp\Desktop\Semester four\Visual C#\projects\sample bank\sample bank\obj\Debug\net8.0-windows\sample_bank.Login.resources
